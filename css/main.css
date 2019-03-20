@@ -898,7 +898,7 @@ body{
 
 .github_items a{
     background-color: rgba(0,0,0,0.8);
-    background: url(../images/icon/github_white.png);
+    
 }
 
 .google_items{
@@ -907,7 +907,7 @@ body{
 
 .google_items a{
     background-color:rgba(80, 43, 127,0.8);
-    background: url(../images/icon/google.png);
+    
 }
 
 .twitter_items{
@@ -916,7 +916,7 @@ body{
 
 .twitter_items a{
     background-color:rgba(25, 25, 115,0.8);
-    background: url(../images/icon/twitter.png);
+   
 }
 
 .facebook_items{
@@ -925,7 +925,7 @@ body{
 
 .facebook_items a{
     background-color:rgba(59,89,152,0.8);
-    background: url(../images/icon/facebook.png);
+  
 }
 
 .weibo_items{
@@ -934,7 +934,7 @@ body{
 
 .weibo_items a{
     background-color:rgba(189,64,64,0.8);
-    background: url(../images/icon/weibo.png);
+    
 }
 
 .zhihu_items{
@@ -943,7 +943,7 @@ body{
 
 .zhihu_items a{
     background-color:rgba(6,100,195,0.8);
-    background: url(../images/icon/zhihu.png);
+   
 }
 
 
@@ -953,7 +953,7 @@ body{
 
 .blog_items a{
     background-color:rgba(153,0,102,0.8);
-    background: url(../favicon.ico);
+    
 }
 
 
@@ -963,7 +963,7 @@ body{
 
 .email_items a{
     background-color:rgba(51,153,102,0.8);
-    background: url(../images/icon/email.png);
+   
 }
 
 .foot_title{
